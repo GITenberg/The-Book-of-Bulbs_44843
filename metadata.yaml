@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42943'
     url: http://www.gutenberg.org/2009/agents/42943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44843#The-Book-of-Bulbs
 gutenberg_issued: '2014-02-08'
 gutenberg_type: Text
 identifiers:
